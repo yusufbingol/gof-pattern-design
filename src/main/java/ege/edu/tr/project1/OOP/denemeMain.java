@@ -62,7 +62,7 @@ public class denemeMain {
                 AhmetEgeli = (Officer) temp1;
             }
         }
-        // Projede istenen çalışanlari için maliyet ve listeler yazıdırılıyor.
+        // Projede istenen çalışanlari için maliyet ve listeler yazıdırılıyor
         System.out.println("\nTotal cost for " + MustafaTurkser.getFullName() + " is: " + MustafaTurkser.calculateCost());
         MustafaTurkser.list();
         System.out.println("\nTotal cost for " + OguzDemir.getFullName() + " is: " + OguzDemir.calculateCost());
