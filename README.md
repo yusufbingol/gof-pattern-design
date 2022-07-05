@@ -9,7 +9,7 @@ varsayılmaktadır. Bir direktörün emrinde sıfır veya N tane çalışan (mem
 olabilmektedir. Çalışanlar için String tipinde adSoyad ve tamsayı (int) tipinde maaş verileri
 bulunmaktadır.
 
-Oluşturulması istenen yapıda desteklenmesi istenen iki işlem vardır. Bunlardan birincisi, bir
+* Oluşturulması istenen yapıda desteklenmesi istenen iki işlem vardır. Bunlardan birincisi, bir
 direktörün hiyerarşik olarak altında çalışanların listelenmesidir (direktörün kendi adı da liste
 başına yazılabilir.) (Eğer memur için emrinde çalışanlar listelenmek istenirse, memurun adı
 liste başına yazılabilir ancak doğal olarak liste boş kalacaktır.) Diğer işlem ise, her hangi bir
