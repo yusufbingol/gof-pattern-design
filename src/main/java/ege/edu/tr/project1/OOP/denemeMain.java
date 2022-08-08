@@ -50,7 +50,7 @@ public class denemeMain {
             while (iter2.hasNext()) {
                 Employee temp2 = iter2.Next();
                 if (temp2.getDirectorName().equalsIgnoreCase(temp1.getFirstName())) {
-                    Director director = director = (Director) temp1;
+                    Director director =  (Director) temp1;
                     director.addSubEmployee(temp2);
                 }
             } 
